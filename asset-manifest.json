@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/IPLDashboardApp-ReactJS/static/css/main.ae5d2461.chunk.css",
-    "main.js": "/IPLDashboardApp-ReactJS/static/js/main.64484a3a.chunk.js",
-    "main.js.map": "/IPLDashboardApp-ReactJS/static/js/main.64484a3a.chunk.js.map",
+    "main.js": "/IPLDashboardApp-ReactJS/static/js/main.6a1692cb.chunk.js",
+    "main.js.map": "/IPLDashboardApp-ReactJS/static/js/main.6a1692cb.chunk.js.map",
     "runtime-main.js": "/IPLDashboardApp-ReactJS/static/js/runtime-main.fc8d885b.js",
     "runtime-main.js.map": "/IPLDashboardApp-ReactJS/static/js/runtime-main.fc8d885b.js.map",
     "static/js/2.51acc7b7.chunk.js": "/IPLDashboardApp-ReactJS/static/js/2.51acc7b7.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.fc8d885b.js",
     "static/js/2.51acc7b7.chunk.js",
     "static/css/main.ae5d2461.chunk.css",
-    "static/js/main.64484a3a.chunk.js"
+    "static/js/main.6a1692cb.chunk.js"
   ]
 }
