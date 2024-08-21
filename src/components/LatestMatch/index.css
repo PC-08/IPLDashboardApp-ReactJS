@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.latest-matches-card-1 {
+  width: 600px;
+  background-color: #0f172a;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.lm-logo {
+  width: 100px;
+  margin: 20px;
+}
+
+.lm-head {
+  font-size: 18px;
+}
+
+.lm-para {
+  font-size: 12px;
+}
+
+@media (max-width: 576px) {
+  .latest-matches-card-1 {
+    width: 300px;
+    flex-direction: column;
+  }
+
+  .line {
+    width: 200px;
+  }
+}

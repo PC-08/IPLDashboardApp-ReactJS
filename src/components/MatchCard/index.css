@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.rm-con {
+  background-color: #0f172a;
+  width: 200px;
+  margin: 15px;
+  padding: 15px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  color: white;
+}
+
+.rm-img {
+  width: 70px;
+}
+
+.rm-para {
+  font-size: 12px;
+  text-align: center;
+}
+
+.Won {
+  color: #18ed66;
+}
+
+.Lost {
+  color: #e31a1a;
+}
+
+@media (max-width: 576px) {
+  .rm-con {
+    height: 220px;
+    width: 120px;
+    padding: 10px;
+  }
+
+  .rm-img {
+    width: 40px;
+  }
+
+  .rm-para {
+    font-size: 10px;
+  }
+
+  .rm-head {
+    font-size: 12px;
+  }
+}

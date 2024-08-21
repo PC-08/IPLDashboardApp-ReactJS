@@ -1,0 +1,67 @@
+/* Write your CSS here */
+.SH {
+  background-color: #f26d22;
+}
+
+.CSK {
+  background-color: #f7db00;
+}
+
+.MI {
+  background-color: #13418b;
+}
+
+.KKR {
+  background-color: #1e293b;
+}
+
+.RCB {
+  background-color: #a4261d;
+}
+
+.KXP {
+  background-color: #d91c1f;
+}
+
+.RR {
+  background-color: #da237b;
+}
+
+.DC {
+  background-color: #4f5db0;
+}
+
+.teamMatches-bg {
+  font-family: 'Bree Serif';
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+
+.teamBanner {
+  width: 600px;
+}
+
+.teamMatches-lm {
+  color: white;
+  font-weight: bold;
+}
+
+.match-card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+@media (max-width: 576px) {
+  .teamBanner {
+    width: 300px;
+  }
+  .match-card-container {
+    margin: 0;
+    padding: 0;
+  }
+}

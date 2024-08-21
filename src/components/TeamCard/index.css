@@ -1,0 +1,45 @@
+/* Write your CSS here */
+
+.teamcard-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  flex-wrap: wrap;
+  width: 1000px;
+}
+
+.team-Card {
+  margin: 10px;
+  width: 400px;
+  text-decoration: none;
+  background-color: #ffffff33;
+  border: 2px solid white;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.teamcard-logo {
+  width: 70px;
+}
+
+.teamcard-head {
+  font-size: 22px;
+  width: 150px;
+  color: white;
+}
+
+.teamcard-2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media (max-width: 576px) {
+  .teamcard-list {
+    width: 100vw;
+    padding: 0;
+
+    margin: 0;
+  }
+}
